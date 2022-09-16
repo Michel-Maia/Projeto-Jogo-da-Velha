@@ -10,7 +10,7 @@
  Desenvolvido 21/12/21.
 
 
-[ 📎 Clique aqui para acessar] ()
+[ 📎 Clique aqui para acessar] (https://michel-maia.github.io/Projeto-Jogo-da-Velha/)
 
 
  ## Tecnologias 🖥️ 🚀 
